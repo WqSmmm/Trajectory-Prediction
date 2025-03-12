@@ -56,7 +56,7 @@
 1. 克隆此仓库：
 ```
 git clone https://github.com/WqSmmmm/Trajectory-Prediction.git
-cd robot-arm-trajectory
+cd Trajectory-Prediction
 ```
 
 2. 安装依赖项：
