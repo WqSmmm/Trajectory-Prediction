@@ -55,7 +55,7 @@
 
 1. 克隆此仓库：
 ```
-git clone https://github.com/WqSmmmm/Trajectory-Prediction.git
+git clone https://github.com/WqSmmm/Trajectory-Prediction.git
 cd Trajectory-Prediction
 ```
 
